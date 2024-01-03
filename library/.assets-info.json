@@ -1,0 +1,842 @@
+{
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources.meta": {
+    "time": 1640595533839.7134
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources": {
+    "time": 1640596540501.1533,
+    "uuid": "bdf39e45-80a4-49dc-8a68-1099346c034e",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\LightPiece.png.meta": {
+    "time": 1636018622000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\LightPiece.png": {
+    "time": 1635996324000,
+    "uuid": "b19e79b3-8e87-4ebc-aac6-b8d4e9e6c6d2",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\scripts.meta": {
+    "time": 1640595596253.2612
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\scripts": {
+    "time": 1640595783447.9963,
+    "uuid": "bb188dfe-5925-48fb-9c53-ff02d08154f4",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\scripts\\Square.ts.meta": {
+    "time": 1635845574000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\scripts\\Flower.ts.meta": {
+    "time": 1635673368000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\scripts\\FirstPage.ts.meta": {
+    "time": 1637048824000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\scripts\\LevelSelect.ts.meta": {
+    "time": 1637050780000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\scripts\\Light.ts.meta": {
+    "time": 1635665558000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\scripts\\LightPiece.ts.meta": {
+    "time": 1635941676000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\scripts\\MainTheme.ts.meta": {
+    "time": 1636014118000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\scripts\\Mirror.ts.meta": {
+    "time": 1635495314000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\scripts\\MapInfo.ts.meta": {
+    "time": 1635669400000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\scripts\\Obstacle.ts.meta": {
+    "time": 1636466200000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\scripts\\SceneSwitch.ts.meta": {
+    "time": 1635604982000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\scripts\\Square.ts": {
+    "time": 1637761746000,
+    "uuid": "d1458a56-875a-4fc8-8d6b-118bbd1601e3",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\scripts\\Flower.ts": {
+    "time": 1637720546000,
+    "uuid": "edab9fa0-7f9e-4ee6-b38d-d8b5dc407dbb",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\scripts\\FirstPage.ts": {
+    "time": 1640598084819.6292,
+    "uuid": "49e453a8-890f-4e00-93ce-66c7f1f734d9",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\scripts\\LevelSelect.ts": {
+    "time": 1637066004000,
+    "uuid": "3aaa965c-fcfe-474c-b63a-19d3360449d8",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\scripts\\Light.ts": {
+    "time": 1640595811582.9414,
+    "uuid": "d0ed9896-81ff-4684-82a2-f83e647b05da",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\scripts\\LightPiece.ts": {
+    "time": 1640595850021.4634,
+    "uuid": "d2e85d20-4857-458a-a1ea-2ccd56a174dc",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\scripts\\MainTheme.ts": {
+    "time": 1640604903919.5679,
+    "uuid": "82c68e14-29e8-4f75-8d99-0edce37b7697",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\scripts\\Mirror.ts": {
+    "time": 1640595839841.2917,
+    "uuid": "4d15c80f-6b6c-4438-a5d3-fed4f0455d2d",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\scripts\\MapInfo.ts": {
+    "time": 1640595917284.3274,
+    "uuid": "8e33e323-8afd-445f-8269-b323703add29",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\scripts\\Obstacle.ts": {
+    "time": 1640595855034.675,
+    "uuid": "74018f7c-a01c-4830-b057-0607912df31f",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\scripts\\SceneSwitch.ts": {
+    "time": 1640595864589.9482,
+    "uuid": "3ff968a7-4771-44f0-8e4c-30e64a7e22fc",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\scripts\\LightTravel.ts.meta": {
+    "time": 1635909288000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\scripts\\LightTravel.ts": {
+    "time": 1640613836465.3147,
+    "uuid": "0ca12307-01b8-4f7e-97fb-bbb9a659aee0",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\scripts\\StableMirror.ts.meta": {
+    "time": 1637055672000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\scripts\\StableMirror.ts": {
+    "time": 1637063594000,
+    "uuid": "76555740-46d6-4c7b-b503-cdd2ef38ce7a",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\scenes.meta": {
+    "time": 1640595946806.846
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\scenes": {
+    "time": 1640618018727.203,
+    "uuid": "e32d7f22-6719-4ee4-84a0-4eecdbfe3f97",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\mirrors.meta": {
+    "time": 1640596097879.655
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\mirrors": {
+    "time": 1640613578735.1672,
+    "uuid": "18f60a49-7dc6-4045-83a6-dfdf05b2cb91",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\mirrors\\zhijiao.png.meta": {
+    "time": 1635782666000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\mirrors\\fanse.png.meta": {
+    "time": 1638067494000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\mirrors\\bianse.png.meta": {
+    "time": 1635782612000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\mirrors\\lvguang_g.png.meta": {
+    "time": 1635782642000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\mirrors\\fenguang.png.meta": {
+    "time": 1635782626000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\mirrors\\liangzi.png.meta": {
+    "time": 1635782634000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\mirrors\\lvguang_r.png.meta": {
+    "time": 1635782646000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\mirrors\\lvguang_b.png.meta": {
+    "time": 1635782638000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\mirrors\\sanleng.png.meta": {
+    "time": 1635782654000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\mirrors\\xiejiao.png.meta": {
+    "time": 1635782658000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\mirrors\\zhijiao.png": {
+    "time": 1635780720000,
+    "uuid": "51820776-8e58-4afd-80e1-f66a2db5934e",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\mirrors\\fanse.png": {
+    "time": 1638067398000,
+    "uuid": "90c5862e-ea52-4665-8d6a-90c3f32defba",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\mirrors\\bianse.png": {
+    "time": 1635780720000,
+    "uuid": "0fbda76e-4a4a-4bb6-a2c6-a90dbc888fd9",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\mirrors\\lvguang_g.png": {
+    "time": 1635780720000,
+    "uuid": "bf23d0cb-bb40-4e18-889d-8317379e1ad2",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\mirrors\\fenguang.png": {
+    "time": 1635780720000,
+    "uuid": "e799d653-c43a-4f41-926b-cec92d5a601f",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\mirrors\\liangzi.png": {
+    "time": 1638281854000,
+    "uuid": "506029d9-9a1d-416d-ae54-8cd53e98cebc",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\mirrors\\lvguang_r.png": {
+    "time": 1635780720000,
+    "uuid": "6345ab16-6658-4687-bcfd-8758a1e18df4",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\mirrors\\lvguang_b.png": {
+    "time": 1635780720000,
+    "uuid": "62c1d3f3-21ee-41b9-b8bb-1f65425b2b49",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\mirrors\\sanleng.png": {
+    "time": 1635780720000,
+    "uuid": "2275651d-db52-40a1-bdd9-e13162592f6c",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\mirrors\\xiejiao.png": {
+    "time": 1635780720000,
+    "uuid": "7271d875-74c0-4f8e-853f-19ccbd34ef66",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\mirrors\\chuansong.png.meta": {
+    "time": 1640596333829.47
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\mirrors\\chuansong.png": {
+    "time": 1638067398000,
+    "uuid": "bb1bf1f1-8a56-430c-bb98-cb19d2ee033e",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\lights.meta": {
+    "time": 1640596348926.3975
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\lights": {
+    "time": 1640596362643.5437,
+    "uuid": "be2cd149-780d-4bcb-9f70-4fc529b68ada",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\lights\\white.png.meta": {
+    "time": 1635668894000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\lights\\cyan.png.meta": {
+    "time": 1635668894000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\lights\\blue.png.meta": {
+    "time": 1635668894000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\lights\\red.png.meta": {
+    "time": 1635668894000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\lights\\green.png.meta": {
+    "time": 1635668894000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\lights\\magenta.png.meta": {
+    "time": 1635668894000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\lights\\yellow.png.meta": {
+    "time": 1635668894000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\lights\\white.png": {
+    "time": 1635606632000,
+    "uuid": "7b8ac95c-8136-49e0-9f7a-9e70ebcab7a1",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\lights\\cyan.png": {
+    "time": 1635606632000,
+    "uuid": "f2515edf-d3f9-4f76-8874-b8977e16d021",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\lights\\blue.png": {
+    "time": 1635606632000,
+    "uuid": "e2e6ecf1-7e60-4211-8056-a5a7d7ed1929",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\lights\\red.png": {
+    "time": 1635606632000,
+    "uuid": "510f6c1e-5b33-48f4-9b92-fa06fcaa2acf",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\lights\\green.png": {
+    "time": 1635606632000,
+    "uuid": "528c33f5-67a5-4076-b94b-5ff32a3de25f",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\lights\\magenta.png": {
+    "time": 1635606632000,
+    "uuid": "d3ed9a66-4e54-4dae-b595-381190135854",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\lights\\yellow.png": {
+    "time": 1635606632000,
+    "uuid": "c5876b29-81a2-4517-be8a-68875bb89a11",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\obstacle.png.meta": {
+    "time": 1636467144000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\obstacle.png": {
+    "time": 1636467086000,
+    "uuid": "dbd9c8aa-b61c-4216-a650-56c09deef8fa",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\flower.png.meta": {
+    "time": 1636201868000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\flower.png": {
+    "time": 1635606526000,
+    "uuid": "d08cc546-dfeb-4091-beb2-76305922c679",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\backgrounds.meta": {
+    "time": 1640596446439.1975
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\backgrounds": {
+    "time": 1640596456241.9631,
+    "uuid": "90478847-685c-43b8-b01e-6fc7a7ec8365",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\backgrounds\\LevelSelect.png.meta": {
+    "time": 1636860644000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\backgrounds\\Level.png.meta": {
+    "time": 1637048778000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\backgrounds\\FirstPage.png.meta": {
+    "time": 1637048764000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\backgrounds\\LevelSelect.png": {
+    "time": 1636860312000,
+    "uuid": "022149d2-9e6d-4410-8443-d6db56e19594",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\backgrounds\\Level.png": {
+    "time": 1636860864000,
+    "uuid": "e3ac1f2f-b2ac-46ac-805e-dcf188cb2c66",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\backgrounds\\FirstPage.png": {
+    "time": 1636860148000,
+    "uuid": "a168aeb6-2021-4573-b8b1-8b21e7f34d65",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\stars.meta": {
+    "time": 1637120144000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\stars\\star1.png.meta": {
+    "time": 1637120276000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\stars\\star2.png.meta": {
+    "time": 1637120276000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\stars\\star3.png.meta": {
+    "time": 1637120276000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\stars\\star4.png.meta": {
+    "time": 1637120276000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\stars\\star5.png.meta": {
+    "time": 1637120276000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\stars": {
+    "time": 1640596514045.9688,
+    "uuid": "dbf1fe26-ff29-4953-ada6-dd857e5b7bce",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\stars\\star1.png": {
+    "time": 1637120250000,
+    "uuid": "0d240f5c-797b-4603-8309-ea31ce873b36",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\stars\\star4.png": {
+    "time": 1637120250000,
+    "uuid": "695eaf4f-6a8e-46d8-941b-c7a7ebd3cf7f",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\stars\\star2.png": {
+    "time": 1637120250000,
+    "uuid": "5e780eda-0c80-4737-94be-a4096b00a0f8",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\stars\\star5.png": {
+    "time": 1637120250000,
+    "uuid": "6d8761ca-5d9c-4f84-889c-9fc870682f27",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\stars\\star3.png": {
+    "time": 1637120250000,
+    "uuid": "00af9a3c-9711-41b3-813f-ad38a82dc904",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\stables.meta": {
+    "time": 1640596540502.1765
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\stables": {
+    "time": 1640613002413.7717,
+    "uuid": "54933a0f-9c45-476a-9698-18429d9fa162",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\stables\\chuansong.png.meta": {
+    "time": 1635782620000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\stables\\guangshan.png.meta": {
+    "time": 1635782590000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\stables\\xuanzhuan_ni.png.meta": {
+    "time": 1640613002483.575
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\stables\\xuanzhuan_shun.png.meta": {
+    "time": 1640613001629.5317
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\stables\\chuansong.png": {
+    "time": 1635780720000,
+    "uuid": "06e88309-f523-473e-9616-e999eff87fac",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\stables\\guangshan.png": {
+    "time": 1635780720000,
+    "uuid": "89c56e8a-3276-42a0-94a8-42797d9e4dd2",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\stables\\xuanzhuan_ni.png": {
+    "time": 1640612704758.122,
+    "uuid": "76e26662-9216-4781-a990-148a5d2ed950",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\stables\\xuanzhuan_shun.png": {
+    "time": 1640612704742.5002,
+    "uuid": "d788a9a8-26ae-4cd5-9901-2e5f8975d25c",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\scenes\\LevelSelect.scene.meta": {
+    "time": 1635476780000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\scenes\\FirstPage.scene.meta": {
+    "time": 1635409982000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\scenes\\LevelSelect.scene": {
+    "time": 1640614472450.0889,
+    "uuid": "69626610-1b8c-4458-8d8d-bad552c6e232",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\scenes\\FirstPage.scene": {
+    "time": 1640614027832.1519,
+    "uuid": "9e205a9a-d540-4400-a0e5-ec792ab6bf61",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs.meta": {
+    "time": 1640605350790.6995
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\lights.meta": {
+    "time": 1640605520414.5605
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs": {
+    "time": 1640606048138.2441,
+    "uuid": "752ef8fc-3c09-423a-b585-83375efcafec",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\lights": {
+    "time": 1640605562802.1616,
+    "uuid": "6add7a5f-5378-4357-86a7-14cb86d88ef8",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\lights\\light_red.prefab.meta": {
+    "time": 1640605356274.4236
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\lights\\light_red.prefab": {
+    "time": 1640605356273.426,
+    "uuid": "90af5a3d-bde9-4374-b111-ace030eb4010",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\lights\\light_green.prefab.meta": {
+    "time": 1640605562543.9739
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\lights\\light_green.prefab": {
+    "time": 1640605562542.9773,
+    "uuid": "be88e092-3683-47cb-99da-4d27dd28b13d",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\lights\\light_blue.prefab.meta": {
+    "time": 1640605562597.829
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\lights\\light_blue.prefab": {
+    "time": 1640605562595.836,
+    "uuid": "cdbd99d0-7b29-48cd-bad1-b42240a64cd9",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\lights\\light_cyan.prefab.meta": {
+    "time": 1640605562653.0447
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\lights\\light_cyan.prefab": {
+    "time": 1640605562651.0498,
+    "uuid": "b9f8ca15-3502-410c-a36e-24433fe0c243",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\lights\\light_magenta.prefab.meta": {
+    "time": 1640605562699.9458
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\lights\\light_magenta.prefab": {
+    "time": 1640605562697.952,
+    "uuid": "0621e595-0526-40d3-af45-a6a76173c654",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\lights\\light_yellow.prefab.meta": {
+    "time": 1640605562768.3535
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\lights\\light_yellow.prefab": {
+    "time": 1640605562766.4211,
+    "uuid": "86e4d643-805c-4fa7-a10e-dc5d12cd842d",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\lights\\light_white.prefab.meta": {
+    "time": 1640605562811.1445
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\lights\\light_white.prefab": {
+    "time": 1640605562808.1475,
+    "uuid": "67dba03e-41f0-4658-beca-825cd2917313",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\flowers.meta": {
+    "time": 1640605583398.0625
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\flowers": {
+    "time": 1640605594756.9924,
+    "uuid": "730d13d0-2d22-4f95-9953-f3cc32a37a5d",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\flowers\\flower_red.prefab.meta": {
+    "time": 1640605594462.4343
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\flowers\\flower_red.prefab": {
+    "time": 1640606519299.4526,
+    "uuid": "8880f8a3-5d13-4286-bb47-6f06f5183bd5",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\flowers\\flower_green.prefab.meta": {
+    "time": 1640605594512.1753
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\flowers\\flower_green.prefab": {
+    "time": 1640606519350.307,
+    "uuid": "450dd994-797c-4733-933e-b25f4da9b12a",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\flowers\\flower_blue.prefab.meta": {
+    "time": 1640605594573.0117
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\flowers\\flower_blue.prefab": {
+    "time": 1640606519389.0889,
+    "uuid": "a5d462d2-b837-4c3f-b9cb-4ee3f1a42fa3",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\flowers\\flower_cyan.prefab.meta": {
+    "time": 1640605594623.8777
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\flowers\\flower_cyan.prefab": {
+    "time": 1640606519454.443,
+    "uuid": "1915ef8d-c574-44a2-ba7d-eef5cc05577a",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\flowers\\flower_magenta.prefab.meta": {
+    "time": 1640605594682.7185
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\flowers\\flower_magenta.prefab": {
+    "time": 1640606519478.4148,
+    "uuid": "5bfbd64a-70aa-4700-b7d3-40415098bdb4",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\flowers\\flower_yellow.prefab.meta": {
+    "time": 1640605594708.6494
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\flowers\\flower_yellow.prefab": {
+    "time": 1640606519504.6616,
+    "uuid": "df8a5cce-10a7-4e5a-8598-2f06f50a13c4",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\flowers\\flower_white.prefab.meta": {
+    "time": 1640605594737.3992
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\flowers\\flower_white.prefab": {
+    "time": 1640606519533.6094,
+    "uuid": "4fc9cd4b-b069-4565-ab07-87f80e7ee74c",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\flowers\\flower_black.prefab.meta": {
+    "time": 1640605594768.9685
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\flowers\\flower_black.prefab": {
+    "time": 1640606519563.2222,
+    "uuid": "5b2881d2-f9e8-4054-bbb2-2cf2717a68d7",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\mirrors.meta": {
+    "time": 1640605616038.6284
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\mirrors": {
+    "time": 1640613618388.5242,
+    "uuid": "32a48454-58b2-484a-939f-4270613a09e0",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\mirrors\\斜角镜.prefab.meta": {
+    "time": 1640605843130.4954
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\mirrors\\斜角镜.prefab": {
+    "time": 1640605843129.4937,
+    "uuid": "4bbd836c-b977-456d-ad42-680da8ef4cf1",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\mirrors\\直角镜.prefab.meta": {
+    "time": 1640605849474.4363
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\mirrors\\直角镜.prefab": {
+    "time": 1640605849473.9463,
+    "uuid": "6d40a19c-944a-4bb6-9500-f2d0cb127657",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\mirrors\\三棱镜.prefab.meta": {
+    "time": 1640605855031.2793
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\mirrors\\三棱镜.prefab": {
+    "time": 1640605855030.2983,
+    "uuid": "a7d78e9f-a5b4-4f1a-ad30-5cbdf18a47cb",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\mirrors\\分光镜.prefab.meta": {
+    "time": 1640605910951.257
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\mirrors\\分光镜.prefab": {
+    "time": 1640605910950.2898,
+    "uuid": "ed18cfa5-1baf-4fa6-9fd8-3ba341732b9c",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\mirrors\\红滤光镜.prefab.meta": {
+    "time": 1640605922382.3352
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\mirrors\\红滤光镜.prefab": {
+    "time": 1640605922381.338,
+    "uuid": "b4c58e74-a4ff-478d-a6cb-9cbc0e65bcc2",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\mirrors\\绿滤光镜.prefab.meta": {
+    "time": 1640605942042.4902
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\mirrors\\绿滤光镜.prefab": {
+    "time": 1640605942041.4895,
+    "uuid": "2c0fa76b-005e-4332-9daa-2011a8637277",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\mirrors\\蓝滤光镜.prefab.meta": {
+    "time": 1640605949767.1982
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\mirrors\\蓝滤光镜.prefab": {
+    "time": 1640605949766.198,
+    "uuid": "9d8f1f00-7085-4357-b374-e753e7bcaff2",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\mirrors\\变色镜.prefab.meta": {
+    "time": 1640605970269.4866
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\mirrors\\变色镜.prefab": {
+    "time": 1640605970268.4893,
+    "uuid": "649109ba-492c-4a02-b6eb-8ca9c6a3393c",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\mirrors\\传送门.prefab.meta": {
+    "time": 1640606010372.2786
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\mirrors\\传送门.prefab": {
+    "time": 1640606972329.356,
+    "uuid": "8f4eb2f7-116b-4bd6-9eb5-ffdc169c1541",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\mirrors\\量子镜.prefab.meta": {
+    "time": 1640606023537.5337
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\mirrors\\量子镜.prefab": {
+    "time": 1640606023536.532,
+    "uuid": "c72a08b8-13c3-4aa3-8c9c-96a7afb4c212",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\mirrors\\反色镜.prefab.meta": {
+    "time": 1640606032598.2666
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\mirrors\\反色镜.prefab": {
+    "time": 1640609592714.879,
+    "uuid": "557e75c2-9c87-4e70-b5d3-394e0535e04a",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\stables.meta": {
+    "time": 1640606048139.2427
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\stables": {
+    "time": 1640616631797.9,
+    "uuid": "ce58d2c3-ae1f-4802-9a4c-1d31549c7808",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\stables\\光栅.prefab.meta": {
+    "time": 1640606061766.2625
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\stables\\光栅.prefab": {
+    "time": 1640606061765.2598,
+    "uuid": "05d3038d-8024-4003-9994-082b0171aab3",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\stables\\顺时针旋转镜.prefab.meta": {
+    "time": 1640606199269.696
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\stables\\顺时针旋转镜.prefab": {
+    "time": 1640606199268.7002,
+    "uuid": "83872008-c0d5-4ba2-9674-930f0e28e8f1",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\stables\\逆时针旋转镜.prefab.meta": {
+    "time": 1640606210447.949
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\stables\\逆时针旋转镜.prefab": {
+    "time": 1640606210446.9487,
+    "uuid": "bb6f5d2e-95d9-4a18-8b63-76838585e019",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\stables\\障碍物.prefab.meta": {
+    "time": 1640606250117.3394
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\stables\\障碍物.prefab": {
+    "time": 1640606250116.3423,
+    "uuid": "e1a97c0d-bebe-43a4-bf9f-e4b4afc5db3d",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\mirrors\\顺时针旋转镜.prefab.meta": {
+    "time": 1640607182536.6436
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\mirrors\\顺时针旋转镜.prefab": {
+    "time": 1640612864004.197,
+    "uuid": "46c63079-9210-4c14-9179-4d82bc6c6189",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\mirrors\\逆时针旋转镜.prefab.meta": {
+    "time": 1640607189541.6274
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\mirrors\\逆时针旋转镜.prefab": {
+    "time": 1640612847945.4353,
+    "uuid": "bc4d7125-803d-4eb1-91e6-352a06d26624",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\mirrors\\zese_b.png.meta": {
+    "time": 1640609421930.195
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\mirrors\\zese_r.png.meta": {
+    "time": 1640609421981.0598
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\mirrors\\zese_g.png.meta": {
+    "time": 1640609422030.9253
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\mirrors\\zese_b.png": {
+    "time": 1638603867247.9282,
+    "uuid": "e0efbab6-fcb4-4b45-9664-c3845b8f293a",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\mirrors\\zese_r.png": {
+    "time": 1638603867232.3074,
+    "uuid": "9b481b61-ccac-49c1-8a73-afd38b211c9d",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\mirrors\\zese_g.png": {
+    "time": 1638603867247.9282,
+    "uuid": "bed4aa23-863a-482e-991c-5f685d7c4c4e",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\mirrors\\红择色镜.prefab.meta": {
+    "time": 1640609719262.7046
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\mirrors\\红择色镜.prefab": {
+    "time": 1640609719260.7085,
+    "uuid": "becf542e-5c75-46cc-a4f9-34a875884a62",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\mirrors\\绿择色镜.prefab.meta": {
+    "time": 1640609719511.0408
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\mirrors\\绿择色镜.prefab": {
+    "time": 1640609719497.0767,
+    "uuid": "ffac76dc-b2b4-4ea8-a05f-fa772174da2b",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\mirrors\\蓝择色镜.prefab.meta": {
+    "time": 1640609719630.7197
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\mirrors\\蓝择色镜.prefab": {
+    "time": 1640609719625.7336,
+    "uuid": "abacc06d-2506-49a9-b663-eb39abb92254",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\mirrors\\xuanzhuan_ni.png.meta": {
+    "time": 1640612984615.3064
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\mirrors\\xuanzhuan_ni.png": {
+    "time": 1640612704758.122,
+    "uuid": "4fccf56e-fcf8-4750-92a0-987222671063",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\mirrors\\xuanzuan_shun.png.meta": {
+    "time": 1640612987968.5745
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\mirrors\\xuanzuan_shun.png": {
+    "time": 1640612704758.122,
+    "uuid": "aac01464-ef3c-40c2-b6b8-1aa2711aa0b4",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\mirrors\\duoyong.png.meta": {
+    "time": 1640613578787.0283
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\resources\\mirrors\\duoyong.png": {
+    "time": 1640613562471.294,
+    "uuid": "39c348a9-5f6c-497a-aedb-4c7151f566e4",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\mirrors\\多用滤光镜.prefab.meta": {
+    "time": 1640613618403.8113
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\mirrors\\多用滤光镜.prefab": {
+    "time": 1640613618400.8188,
+    "uuid": "efbe9ff3-ef50-4fdb-83af-b5b0efa42808",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\stables\\传送门.prefab.meta": {
+    "time": 1640616631818.8445
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\prefabs\\stables\\传送门.prefab": {
+    "time": 1640616631814.855,
+    "uuid": "0836da54-6f40-460f-99db-7b9347edcb61",
+    "missing": false
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\scenes\\Level1.scene.meta": {
+    "time": 1640163090000
+  },
+  "D:\\奇妙的反射鏡\\codes\\BuildLevel\\assets\\scenes\\Level1.scene": {
+    "time": 1640617996961.6946,
+    "uuid": "a5589ed6-c12f-41e2-9399-c9ac5ea5965d",
+    "missing": false
+  }
+}

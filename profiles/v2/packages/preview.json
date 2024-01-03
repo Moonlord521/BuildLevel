@@ -1,0 +1,13 @@
+{
+  "__version__": "1.0.1",
+  "general": {
+    "start_scene": "9e205a9a-d540-4400-a0e5-ec792ab6bf61"
+  },
+  "preview": {
+    "simulator_resolution": 3,
+    "simulator_orientation": "portrait",
+    "current": {
+      "platform": "gameView"
+    }
+  }
+}

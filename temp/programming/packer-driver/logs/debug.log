@@ -1,0 +1,333 @@
+debug: Wed, 03 Jan 2024 12:04:21 GMT
+debug: Project: D:\CocosCreator\BuildLevel
+debug: Targets: editor,preview
+debug: Incremental file seems great.
+debug: Engine path: D:\CocosCreator\Creator\3.8.1\resources\resources\3d\engine
+debug: Initializing target [Editor]
+debug: Loading cache
+debug: Loading cache costs 1.4587999999057502ms.
+debug: Engine features shipped in editor: base,gfx-webgl,gfx-webgl2,gfx-empty,3d,animation,skeletal-animation,2d,ui,particle,particle-2d,physics-framework,physics-2d-framework,physics-2d-box2d-wasm,intersection-2d,primitive,profiler,occlusion-query,geometry-renderer,debug-renderer,audio,video,xr,light-probe,terrain,webview,tween,tiled-map,spine,dragon-bones,marionette,procedural-animation,custom-pipeline,websocket,websocket-server
+debug: Our import map(foo:/bar): {
+  "imports": {
+    "cc": "cce:/internal/x/cc"
+  }
+}
+debug: Initializing target [Preview]
+debug: Loading cache
+debug: Loading cache costs 1.2294000000692904ms.
+debug: Our import map(foo:/bar): {
+  "imports": {
+    "cc": "cce:/internal/x/cc"
+  }
+}
+debug: Sync engine features: 2d,animation,audio,base,dragon-bones,gfx-webgl,intersection-2d,light-probe,marionette,particle-2d,physics-2d-box2d,profiler,skeletal-animation,spine,tiled-map,tween,ui,video,websocket,webview
+debug: Reset databases. Enumerated domains: [
+  {
+    "root": "db://internal/",
+    "physical": "D:\\CocosCreator\\Creator\\3.8.1\\resources\\resources\\3d\\engine\\editor\\assets"
+  },
+  {
+    "root": "db://assets/",
+    "physical": "D:\\CocosCreator\\BuildLevel\\assets"
+  }
+]
+debug: Our import map(foo:/bar): {
+  "imports": {
+    "cc": "cce:/internal/x/cc",
+    "db://internal/": "file:///D:/CocosCreator/Creator/3.8.1/resources/resources/3d/engine/editor/assets/",
+    "db://assets/": "file:///D:/CocosCreator/BuildLevel/assets/"
+  }
+}
+debug: Our import map(foo:/bar): {
+  "imports": {
+    "cc": "cce:/internal/x/cc",
+    "db://internal/": "file:///D:/CocosCreator/Creator/3.8.1/resources/resources/3d/engine/editor/assets/",
+    "db://assets/": "file:///D:/CocosCreator/BuildLevel/assets/"
+  }
+}
+debug: Pulling asset-db.
+debug: Fetch asset-db cost: 5.964099999982864ms.
+debug: Build iteration starts.
+Number of accumulated asset changes: 14
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 08:00:07 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/cc
+debug: Resolve cce:/internal/x/cc-fu/base from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/base.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl2 from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl2.
+debug: Resolve cce:/internal/x/cc-fu/gfx-empty from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-empty.
+debug: Resolve cce:/internal/x/cc-fu/3d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/3d.
+debug: Resolve cce:/internal/x/cc-fu/animation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/animation.
+debug: Resolve cce:/internal/x/cc-fu/skeletal-animation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/skeletal-animation.
+debug: Resolve cce:/internal/x/cc-fu/2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/2d.
+debug: Resolve cce:/internal/x/cc-fu/sorting from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/sorting.
+debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
+debug: Resolve cce:/internal/x/cc-fu/particle from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle.
+debug: Resolve cce:/internal/x/cc-fu/particle-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle-2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-framework.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-framework.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-box2d-wasm from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-box2d-wasm.
+debug: Resolve cce:/internal/x/cc-fu/intersection-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/intersection-2d.
+debug: Resolve cce:/internal/x/cc-fu/primitive from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/primitive.
+debug: Resolve cce:/internal/x/cc-fu/profiler from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/profiler.
+debug: Resolve cce:/internal/x/cc-fu/geometry-renderer from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/geometry-renderer.
+debug: Resolve cce:/internal/x/cc-fu/audio from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/audio.
+debug: Resolve cce:/internal/x/cc-fu/video from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/video.
+debug: Resolve cce:/internal/x/cc-fu/xr from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/xr.
+debug: Resolve cce:/internal/x/cc-fu/light-probe from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/light-probe.
+debug: Resolve cce:/internal/x/cc-fu/terrain from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/terrain.
+debug: Resolve cce:/internal/x/cc-fu/webview from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/webview.
+debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tween.
+debug: Resolve cce:/internal/x/cc-fu/tiled-map from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tiled-map.
+debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
+debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
+debug: Resolve cce:/internal/x/cc-fu/custom-pipeline from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/custom-pipeline.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:07 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/FirstPage.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/FirstPage.ts.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/FirstPage.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/FirstPage.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/FirstPage.ts as cce:/internal/x/cc.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/Flower.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/Flower.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/CocosCreator/BuildLevel/assets/scripts/Flower.ts as cce:/internal/code-quality/cr.mjs.
+debug: Detected change: cce:/internal/code-quality/cr.mjs. Last mtime: Tue Jan 02 2024 21:13:29 GMT+0800 (中国标准时间), Current mtime: Wed Jan 03 2024 20:04:14 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/code-quality/cr.mjs
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/Flower.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/Flower.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/Flower.ts as cce:/internal/x/cc.
+debug: Resolve ./MapInfo from file:///D:/CocosCreator/BuildLevel/assets/scripts/Flower.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/MapInfo.ts.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/MapInfo.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/MapInfo.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/MapInfo.ts as cce:/internal/x/cc.
+debug: Resolve ./Square from file:///D:/CocosCreator/BuildLevel/assets/scripts/Flower.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/Square.ts.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/Square.ts as cce:/internal/x/cc.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/LevelSelect.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/LevelSelect.ts.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/LevelSelect.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/LevelSelect.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/LevelSelect.ts as cce:/internal/x/cc.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/Light.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/Light.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/CocosCreator/BuildLevel/assets/scripts/Light.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/Light.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/Light.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/Light.ts as cce:/internal/x/cc.
+debug: Resolve ./MapInfo from file:///D:/CocosCreator/BuildLevel/assets/scripts/Light.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/MapInfo.ts.
+debug: Resolve ./Square from file:///D:/CocosCreator/BuildLevel/assets/scripts/Light.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/Square.ts.
+debug: Resolve ./LightTravel from file:///D:/CocosCreator/BuildLevel/assets/scripts/Light.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/LightTravel.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/CocosCreator/BuildLevel/assets/scripts/LightTravel.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/LightTravel.ts as cce:/internal/x/cc.
+debug: Resolve ./MainTheme from file:///D:/CocosCreator/BuildLevel/assets/scripts/LightTravel.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/MainTheme.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/CocosCreator/BuildLevel/assets/scripts/MainTheme.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/MainTheme.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/MainTheme.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/MainTheme.ts as cce:/internal/x/cc.
+debug: Resolve ./Light from file:///D:/CocosCreator/BuildLevel/assets/scripts/MainTheme.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/Light.ts.
+debug: Resolve ./Flower from file:///D:/CocosCreator/BuildLevel/assets/scripts/MainTheme.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/Flower.ts.
+debug: Resolve ./LightPiece from file:///D:/CocosCreator/BuildLevel/assets/scripts/MainTheme.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/LightPiece.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/CocosCreator/BuildLevel/assets/scripts/LightPiece.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/LightPiece.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/LightPiece.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/LightPiece.ts as cce:/internal/x/cc.
+debug: Resolve ./MapInfo from file:///D:/CocosCreator/BuildLevel/assets/scripts/LightPiece.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/MapInfo.ts.
+debug: Resolve ./Square from file:///D:/CocosCreator/BuildLevel/assets/scripts/LightPiece.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/Square.ts.
+debug: Resolve ./LightTravel from file:///D:/CocosCreator/BuildLevel/assets/scripts/MainTheme.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/LightTravel.ts.
+debug: Resolve ./Square from file:///D:/CocosCreator/BuildLevel/assets/scripts/MainTheme.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/Square.ts.
+debug: Resolve ./Mirror from file:///D:/CocosCreator/BuildLevel/assets/scripts/MainTheme.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/Mirror.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/CocosCreator/BuildLevel/assets/scripts/Mirror.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/Mirror.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/Mirror.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/Mirror.ts as cce:/internal/x/cc.
+debug: Resolve ./MapInfo from file:///D:/CocosCreator/BuildLevel/assets/scripts/Mirror.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/MapInfo.ts.
+debug: Resolve ./Square from file:///D:/CocosCreator/BuildLevel/assets/scripts/Mirror.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/Square.ts.
+debug: Resolve ./Light from file:///D:/CocosCreator/BuildLevel/assets/scripts/Mirror.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/Light.ts.
+debug: Resolve ./Flower from file:///D:/CocosCreator/BuildLevel/assets/scripts/Mirror.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/Flower.ts.
+debug: Resolve ./LightTravel from file:///D:/CocosCreator/BuildLevel/assets/scripts/Mirror.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/LightTravel.ts.
+debug: Resolve ./MainTheme from file:///D:/CocosCreator/BuildLevel/assets/scripts/Mirror.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/MainTheme.ts.
+debug: Resolve ./StableMirror from file:///D:/CocosCreator/BuildLevel/assets/scripts/MainTheme.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/StableMirror.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/CocosCreator/BuildLevel/assets/scripts/StableMirror.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/StableMirror.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/StableMirror.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/StableMirror.ts as cce:/internal/x/cc.
+debug: Resolve ./MapInfo from file:///D:/CocosCreator/BuildLevel/assets/scripts/StableMirror.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/MapInfo.ts.
+debug: Resolve ./Square from file:///D:/CocosCreator/BuildLevel/assets/scripts/StableMirror.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/Square.ts.
+debug: Resolve ./Obstacle from file:///D:/CocosCreator/BuildLevel/assets/scripts/MainTheme.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/Obstacle.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/CocosCreator/BuildLevel/assets/scripts/Obstacle.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/Obstacle.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/Obstacle.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/Obstacle.ts as cce:/internal/x/cc.
+debug: Resolve ./MapInfo from file:///D:/CocosCreator/BuildLevel/assets/scripts/Obstacle.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/MapInfo.ts.
+debug: Resolve ./Square from file:///D:/CocosCreator/BuildLevel/assets/scripts/Obstacle.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/Square.ts.
+debug: Resolve ./Square from file:///D:/CocosCreator/BuildLevel/assets/scripts/LightTravel.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/Square.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/LightPiece.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/LightPiece.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/LightTravel.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/LightTravel.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/MainTheme.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/MainTheme.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/MapInfo.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/MapInfo.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/Mirror.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/Mirror.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/Obstacle.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/Obstacle.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/SceneSwitch.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/SceneSwitch.ts.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/SceneSwitch.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/SceneSwitch.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/SceneSwitch.ts as cce:/internal/x/cc.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/Square.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/Square.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/StableMirror.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/StableMirror.ts.
+debug: Resolve file:///D:/CocosCreator/Creator/3.8.1/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/Creator/3.8.1/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+debug: Resolve cc from file:///D:/CocosCreator/Creator/3.8.1/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/Creator/3.8.1/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/Creator/3.8.1/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 72.59639999992214ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 08:00:07 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/cc
+debug: Resolve cce:/internal/x/cc-fu/2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/2d.
+debug: Resolve cce:/internal/x/cc-fu/sorting from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/sorting.
+debug: Resolve cce:/internal/x/cc-fu/animation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/animation.
+debug: Resolve cce:/internal/x/cc-fu/audio from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/audio.
+debug: Resolve cce:/internal/x/cc-fu/base from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/base.
+debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl.
+debug: Resolve cce:/internal/x/cc-fu/intersection-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/intersection-2d.
+debug: Resolve cce:/internal/x/cc-fu/light-probe from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/light-probe.
+debug: Resolve cce:/internal/x/cc-fu/particle-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle-2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-box2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-box2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-framework.
+debug: Resolve cce:/internal/x/cc-fu/profiler from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/profiler.
+debug: Resolve cce:/internal/x/cc-fu/skeletal-animation from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/skeletal-animation.
+debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
+debug: Resolve cce:/internal/x/cc-fu/tiled-map from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tiled-map.
+debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tween.
+debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
+debug: Resolve cce:/internal/x/cc-fu/video from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/video.
+debug: Resolve cce:/internal/x/cc-fu/webview from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/webview.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:07 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:07 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/FirstPage.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/FirstPage.ts.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/FirstPage.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/FirstPage.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/FirstPage.ts as cce:/internal/x/cc.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/Flower.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/Flower.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/CocosCreator/BuildLevel/assets/scripts/Flower.ts as cce:/internal/code-quality/cr.mjs.
+debug: Detected change: cce:/internal/code-quality/cr.mjs. Last mtime: Tue Jan 02 2024 21:13:29 GMT+0800 (中国标准时间), Current mtime: Wed Jan 03 2024 20:04:14 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/code-quality/cr.mjs
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/Flower.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/Flower.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/Flower.ts as cce:/internal/x/cc.
+debug: Resolve ./MapInfo from file:///D:/CocosCreator/BuildLevel/assets/scripts/Flower.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/MapInfo.ts.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/MapInfo.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/MapInfo.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/MapInfo.ts as cce:/internal/x/cc.
+debug: Resolve ./Square from file:///D:/CocosCreator/BuildLevel/assets/scripts/Flower.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/Square.ts.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/Square.ts as cce:/internal/x/cc.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/LevelSelect.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/LevelSelect.ts.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/LevelSelect.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/LevelSelect.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/LevelSelect.ts as cce:/internal/x/cc.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/Light.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/Light.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/CocosCreator/BuildLevel/assets/scripts/Light.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/Light.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/Light.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/Light.ts as cce:/internal/x/cc.
+debug: Resolve ./MapInfo from file:///D:/CocosCreator/BuildLevel/assets/scripts/Light.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/MapInfo.ts.
+debug: Resolve ./Square from file:///D:/CocosCreator/BuildLevel/assets/scripts/Light.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/Square.ts.
+debug: Resolve ./LightTravel from file:///D:/CocosCreator/BuildLevel/assets/scripts/Light.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/LightTravel.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/CocosCreator/BuildLevel/assets/scripts/LightTravel.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/LightTravel.ts as cce:/internal/x/cc.
+debug: Resolve ./MainTheme from file:///D:/CocosCreator/BuildLevel/assets/scripts/LightTravel.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/MainTheme.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/CocosCreator/BuildLevel/assets/scripts/MainTheme.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/MainTheme.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/MainTheme.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/MainTheme.ts as cce:/internal/x/cc.
+debug: Resolve ./Light from file:///D:/CocosCreator/BuildLevel/assets/scripts/MainTheme.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/Light.ts.
+debug: Resolve ./Flower from file:///D:/CocosCreator/BuildLevel/assets/scripts/MainTheme.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/Flower.ts.
+debug: Resolve ./LightPiece from file:///D:/CocosCreator/BuildLevel/assets/scripts/MainTheme.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/LightPiece.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/CocosCreator/BuildLevel/assets/scripts/LightPiece.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/LightPiece.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/LightPiece.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/LightPiece.ts as cce:/internal/x/cc.
+debug: Resolve ./MapInfo from file:///D:/CocosCreator/BuildLevel/assets/scripts/LightPiece.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/MapInfo.ts.
+debug: Resolve ./Square from file:///D:/CocosCreator/BuildLevel/assets/scripts/LightPiece.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/Square.ts.
+debug: Resolve ./LightTravel from file:///D:/CocosCreator/BuildLevel/assets/scripts/MainTheme.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/LightTravel.ts.
+debug: Resolve ./Square from file:///D:/CocosCreator/BuildLevel/assets/scripts/MainTheme.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/Square.ts.
+debug: Resolve ./Mirror from file:///D:/CocosCreator/BuildLevel/assets/scripts/MainTheme.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/Mirror.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/CocosCreator/BuildLevel/assets/scripts/Mirror.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/Mirror.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/Mirror.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/Mirror.ts as cce:/internal/x/cc.
+debug: Resolve ./MapInfo from file:///D:/CocosCreator/BuildLevel/assets/scripts/Mirror.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/MapInfo.ts.
+debug: Resolve ./Square from file:///D:/CocosCreator/BuildLevel/assets/scripts/Mirror.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/Square.ts.
+debug: Resolve ./Light from file:///D:/CocosCreator/BuildLevel/assets/scripts/Mirror.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/Light.ts.
+debug: Resolve ./Flower from file:///D:/CocosCreator/BuildLevel/assets/scripts/Mirror.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/Flower.ts.
+debug: Resolve ./LightTravel from file:///D:/CocosCreator/BuildLevel/assets/scripts/Mirror.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/LightTravel.ts.
+debug: Resolve ./MainTheme from file:///D:/CocosCreator/BuildLevel/assets/scripts/Mirror.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/MainTheme.ts.
+debug: Resolve ./StableMirror from file:///D:/CocosCreator/BuildLevel/assets/scripts/MainTheme.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/StableMirror.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/CocosCreator/BuildLevel/assets/scripts/StableMirror.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/StableMirror.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/StableMirror.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/StableMirror.ts as cce:/internal/x/cc.
+debug: Resolve ./MapInfo from file:///D:/CocosCreator/BuildLevel/assets/scripts/StableMirror.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/MapInfo.ts.
+debug: Resolve ./Square from file:///D:/CocosCreator/BuildLevel/assets/scripts/StableMirror.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/Square.ts.
+debug: Resolve ./Obstacle from file:///D:/CocosCreator/BuildLevel/assets/scripts/MainTheme.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/Obstacle.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/CocosCreator/BuildLevel/assets/scripts/Obstacle.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/Obstacle.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/Obstacle.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/Obstacle.ts as cce:/internal/x/cc.
+debug: Resolve ./MapInfo from file:///D:/CocosCreator/BuildLevel/assets/scripts/Obstacle.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/MapInfo.ts.
+debug: Resolve ./Square from file:///D:/CocosCreator/BuildLevel/assets/scripts/Obstacle.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/Square.ts.
+debug: Resolve ./Square from file:///D:/CocosCreator/BuildLevel/assets/scripts/LightTravel.ts as file:///D:/CocosCreator/BuildLevel/assets/scripts/Square.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/LightPiece.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/LightPiece.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/LightTravel.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/LightTravel.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/MainTheme.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/MainTheme.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/MapInfo.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/MapInfo.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/Mirror.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/Mirror.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/Obstacle.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/Obstacle.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/SceneSwitch.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/SceneSwitch.ts.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/SceneSwitch.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/SceneSwitch.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/BuildLevel/assets/scripts/SceneSwitch.ts as cce:/internal/x/cc.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/Square.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/Square.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/StableMirror.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/StableMirror.ts.
+debug: Resolve file:///D:/CocosCreator/Creator/3.8.1/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/Creator/3.8.1/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+debug: Resolve cc from file:///D:/CocosCreator/Creator/3.8.1/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/Creator/3.8.1/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/CocosCreator/Creator/3.8.1/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 60.58339999988675ms.
+debug: Pulling asset-db.
+debug: Fetch asset-db cost: 345.55159999988973ms.
+debug: Build iteration starts.
+Number of accumulated asset changes: 14
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:06 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:07 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/FirstPage.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/FirstPage.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/Flower.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/Flower.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/LevelSelect.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/LevelSelect.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/Light.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/Light.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/LightPiece.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/LightPiece.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/LightTravel.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/LightTravel.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/MainTheme.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/MainTheme.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/MapInfo.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/MapInfo.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/Mirror.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/Mirror.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/Obstacle.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/Obstacle.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/SceneSwitch.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/SceneSwitch.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/Square.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/Square.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/StableMirror.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/StableMirror.ts.
+debug: Resolve file:///D:/CocosCreator/Creator/3.8.1/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/Creator/3.8.1/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+debug: Target(editor) ends with cost 20.047400000039488ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 08:00:07 GMT+0800 (中国标准时间), Current mtime: Thu Jan 01 1970 08:00:07 GMT+0800 (中国标准时间)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/FirstPage.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/FirstPage.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/Flower.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/Flower.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/LevelSelect.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/LevelSelect.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/Light.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/Light.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/LightPiece.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/LightPiece.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/LightTravel.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/LightTravel.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/MainTheme.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/MainTheme.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/MapInfo.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/MapInfo.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/Mirror.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/Mirror.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/Obstacle.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/Obstacle.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/SceneSwitch.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/SceneSwitch.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/Square.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/Square.ts.
+debug: Resolve file:///D:/CocosCreator/BuildLevel/assets/scripts/StableMirror.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/BuildLevel/assets/scripts/StableMirror.ts.
+debug: Resolve file:///D:/CocosCreator/Creator/3.8.1/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts from cce:/internal/x/prerequisite-imports as file:///D:/CocosCreator/Creator/3.8.1/resources/resources/3d/engine/editor/assets/tools/debug-view-runtime-control.ts.
+debug: Target(preview) ends with cost 17.724799999967217ms.

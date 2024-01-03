@@ -1,0 +1,15 @@
+{
+    "systemInfo": {
+        "arch": "x64",
+        "cpu": "13th Gen Intel(R) Core(TM) i7-13700KF",
+        "version": "Windows 10 Pro"
+    },
+    "sceneListMap": {
+        "a5589ed6-c12f-41e2-9399-c9ac5ea5965d": "D:\\CocosCreator\\BuildLevel\\assets\\scenes\\Level1.scene",
+        "406660d0-0a0a-4261-94f9-14c6cb8c23a8": "D:\\CocosCreator\\BuildLevel\\assets\\scenes\\Level2.scene",
+        "49d2aa0c-c6be-497b-9e3d-85002d6d663c": "D:\\CocosCreator\\BuildLevel\\assets\\scenes\\Level4.scene",
+        "5e3b0434-486e-4b89-ba9d-4b430117d66a": "D:\\CocosCreator\\BuildLevel\\assets\\scenes\\Level5.scene",
+        "1a675f2c-dfa3-4001-932a-d230245f35dd": "D:\\CocosCreator\\BuildLevel\\assets\\scenes\\Level6.scene"
+    },
+    "deviceMd5": "ffcfac094890f9509dd0a5b49fb687b7"
+}
